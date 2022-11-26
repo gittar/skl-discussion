@@ -1,0 +1,8 @@
+name: sklearn
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - jupyterlab
+  - nb_conda_kernels
+  - matplotlib
